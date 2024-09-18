@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KravetsLR1.props" />
+</Project>
